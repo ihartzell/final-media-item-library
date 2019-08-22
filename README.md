@@ -9,4 +9,4 @@ Note: In order to run the source code you will probably have to setup your IDE f
 
 ## Author Info
 - Author: Isaac Hartzell
-- Date: May 2nd, 2017
+- Program Created: 5/2/2017
